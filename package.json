@@ -1,0 +1,27 @@
+{
+  "name": "multiple-step-form",
+  "version": "1.0.0",
+  "description": "a multiple step form ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahfool/multiple-step-form.git"
+  },
+  "keywords": [
+    "form",
+    "steps",
+    "multiple"
+  ],
+  "author": "dahfool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahfool/multiple-step-form/issues"
+  },
+  "homepage": "https://github.com/dahfool/multiple-step-form#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
